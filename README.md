@@ -3,6 +3,10 @@
 ## Description
 This project is a basic React application that connects to a MongoDB database and serves on a specified port. Follow the instructions below to set up and run the project locally.
 
+### Deployed App
+You can access the deployed version of the app at:  
+[https://react-basic-project-rbem.onrender.com](https://react-basic-project-rbem.onrender.com)
+
 ## Setup
 
 1. **Clone the repository**:
